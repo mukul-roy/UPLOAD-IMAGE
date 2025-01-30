@@ -1,0 +1,19 @@
+{
+    "name": "mukul_roy/upload_images",
+    "description": "this is packege for uploading image",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+           "Devzone\\Roy\\Pioneer\\" : "app//"
+        }
+    },
+    "authors": [
+        {
+            "name": "mukul-roy",
+            "email": "roymukul846@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
